@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\data\\bike_sharing.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\data\\bike_sharing.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\predictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\predictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.predict\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|solutionrelative:bikeshareanomaly.predict\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly\\bikeshareanomaly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1E58F9B-E001-4B1C-823E-8427DD905AF5}|BikeShareAnomaly\\BikeShareAnomaly.csproj|solutionrelative:bikeshareanomaly\\bikeshareanomaly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.predict\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|solutionrelative:bikeshareanomaly.predict\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.predict\\bikeshareanomaly.predict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|solutionrelative:bikeshareanomaly.predict\\bikeshareanomaly.predict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.predict\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B753E2F-9618-4D54-B8EA-8CEF8A6C1F45}|BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj|solutionrelative:bikeshareanomaly.predict\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\data\\bike_sharing.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\data\\bike_sharing.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|c:\\users\\tania\\source\\repos\\bikeshareanomaly\\bikeshareanomaly.train\\bikeshareanomaly.train.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53A5A82A-F9DA-4429-BBBE-099FF3429723}|BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj|solutionrelative:bikeshareanomaly.train\\bikeshareanomaly.train.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Trainer.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\Trainer.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Trainer.cs*",
+              "RelativeToolTip": "BikeShareAnomaly\\Trainer.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:53:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Program.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\Program.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Program.cs",
+              "RelativeToolTip": "BikeShareAnomaly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:46:10.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bike_sharing.csv",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Data\\bike_sharing.csv",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\Data\\bike_sharing.csv",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Data\\bike_sharing.csv",
+              "RelativeToolTip": "BikeShareAnomaly\\Data\\bike_sharing.csv",
+              "ViewState": "AgIAAMZDAAAAAAAAAAAiwNdDAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-11T19:56:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Predictor.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Predictor.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\Predictor.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\Predictor.cs",
+              "RelativeToolTip": "BikeShareAnomaly\\Predictor.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:53:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\ModelOutput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\ModelOutput.cs",
+              "RelativeToolTip": "BikeShareAnomaly\\ModelOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:50:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelInput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\ModelInput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\ModelInput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\ModelInput.cs",
+              "RelativeToolTip": "BikeShareAnomaly\\ModelInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:49:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Program.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Program.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:47:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Predict\\ModelOutput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\ModelOutput.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Predict\\ModelOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:02:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BikeShareAnomaly.csproj",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\BikeShareAnomaly.csproj",
+              "RelativeDocumentMoniker": "BikeShareAnomaly\\BikeShareAnomaly.csproj",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly\\BikeShareAnomaly.csproj",
+              "RelativeToolTip": "BikeShareAnomaly\\BikeShareAnomaly.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T17:47:55.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\Program.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Predict\\Program.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\Program.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Predict\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:48:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Trainer.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\Trainer.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Trainer.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\Trainer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:58:39.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\ModelOutput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\ModelOutput.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\ModelOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:58:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelInput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\ModelInput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\ModelInput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\ModelInput.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\ModelInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:57:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BikeShareAnomaly.Predict.csproj",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj",
+              "RelativeToolTip": "BikeShareAnomaly.Predict\\BikeShareAnomaly.Predict.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T17:50:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelInput.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\ModelInput.cs",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Predict\\ModelInput.cs",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Predict\\ModelInput.cs",
+              "RelativeToolTip": "BikeShareAnomaly.Predict\\ModelInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:01:58.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bike_sharing.csv",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Data\\bike_sharing.csv",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\Data\\bike_sharing.csv",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\Data\\bike_sharing.csv",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\Data\\bike_sharing.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-11T18:01:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BikeShareAnomaly.Train",
+              "DocumentMoniker": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj",
+              "RelativeDocumentMoniker": "BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj",
+              "ToolTip": "C:\\Users\\tania\\source\\repos\\BikeShareAnomaly\\BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj",
+              "RelativeToolTip": "BikeShareAnomaly.Train\\BikeShareAnomaly.Train.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T17:56:37.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
